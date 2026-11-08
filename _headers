@@ -1,0 +1,11 @@
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'
+/sw.js
+  Cache-Control: no-cache
+/precache.js
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
